@@ -19,7 +19,7 @@
 
 2. **Add the remote repository**:
    ```bash
-   git remote add origin https://github.com/YOUR_USERNAME/mcp-mysql-server.git
+   git remote add origin https://github.com/mukul975/mcp-mysql-server.git
    ```
 
 3. **Push to GitHub**:
@@ -76,7 +76,7 @@ Once you've pushed to a remote repository, you can:
 
 1. **Clone on other machines**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/mcp-mysql-server.git
+   git clone https://github.com/mukul975/mcp-mysql-server.git
    ```
 
 2. **Set up the environment**:

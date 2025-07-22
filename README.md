@@ -2,6 +2,12 @@
 
 A comprehensive Model Context Protocol (MCP) server for MySQL databases, designed to empower AI assistants and LLMs with advanced database access, management, and diagnostic capabilities.
 
+## Repository
+
+- **GitHub**: [https://github.com/mukul975/mcp-mysql-server](https://github.com/mukul975/mcp-mysql-server)
+- **Author**: mukul975
+- **License**: MIT
+
 ## Core Features
 
 - **Execute SQL Queries**: Support for safe execution of `SELECT`, `INSERT`, `UPDATE`, `DELETE`, and other commands with read-only validation.
