@@ -4,7 +4,7 @@ A comprehensive Model Context Protocol (MCP) server for MySQL databases, designe
 
 ## Repository
 
-- **GitHub**: [https://github.com/mukul975/mcp-mysql-server](https://github.com/mukul975/mcp-mysql-server)
+- **GitHub**: [https://github.com/mukul975/mysql-mcp-server](https://github.com/mukul975/mysql-mcp-server)
 - **Author**: mukul975
 - **License**: MIT
 

@@ -71,6 +71,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Links
 
-- [Repository](https://github.com/mukul975/mcp-mysql-server)
-- [Issues](https://github.com/mukul975/mcp-mysql-server/issues)
-- [Releases](https://github.com/mukul975/mcp-mysql-server/releases)
+- [Repository](https://github.com/mukul975/mysql-mcp-server)
+- [Issues](https://github.com/mukul975/mysql-mcp-server/issues)
+- [Releases](https://github.com/mukul975/mysql-mcp-server/releases)

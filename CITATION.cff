@@ -6,8 +6,8 @@ authors:
   - given-names: "mukul975"
     family-names: ""
     orcid: "https://orcid.org/0009-0003-4474-946X"
-repository-code: "https://github.com/mukul975/mcp-mysql-server"
-url: "https://github.com/mukul975/mcp-mysql-server"
+repository-code: "https://github.com/mukul975/mysql-mcp-server"
+url: "https://github.com/mukul975/mysql-mcp-server"
 abstract: >-
   A comprehensive Model Context Protocol (MCP) server for MySQL databases 
   with 200+ tools for advanced database management, diagnostics, performance 
@@ -35,4 +35,4 @@ preferred-citation:
     - given-names: "mukul975"
       family-names: ""
   year: 2025
-  url: "https://github.com/mukul975/mcp-mysql-server"
+  url: "https://github.com/mukul975/mysql-mcp-server"
