@@ -3,8 +3,8 @@ title: "MCP MySQL Server"
 message: "If you use this software, please cite it using these metadata."
 type: software
 authors:
-  - given-names: "mukul975"
-    family-names: ""
+  - given-names: "Mahipal"
+    family-names: " Mahipal"
     orcid: "https://orcid.org/0009-0003-4474-946X"
 repository-code: "https://github.com/mukul975/mysql-mcp-server"
 url: "https://github.com/mukul975/mysql-mcp-server"
@@ -32,7 +32,7 @@ preferred-citation:
   type: software
   title: "MCP MySQL Server: A Comprehensive Database Management Tool for AI Systems"
   authors:
-    - given-names: "mukul975"
-      family-names: ""
+    - given-names: "Mahipal"
+    family-names: " Mahipal"
   year: 2025
   url: "https://github.com/mukul975/mysql-mcp-server"
