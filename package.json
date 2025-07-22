@@ -1,0 +1,53 @@
+{
+  "name": "mcp-mysql-server",
+  "version": "1.0.0",
+  "description": "A comprehensive Model Context Protocol (MCP) server for MySQL databases with 200+ tools for advanced database management, diagnostics, performance analysis, security auditing, and AI-powered database interactions.",
+  "main": "mysql_server.py",
+  "scripts": {
+    "start": "python mysql_server.py",
+    "test": "python -m pytest",
+    "lint": "flake8 mysql_server.py",
+    "format": "black mysql_server.py"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mukul975/mcp-mysql-server.git"
+  },
+  "keywords": [
+    "mysql",
+    "database",
+    "mcp",
+    "model-context-protocol",
+    "ai",
+    "llm",
+    "database-management",
+    "sql",
+    "python",
+    "diagnostics",
+    "performance",
+    "security",
+    "claude",
+    "chatgpt",
+    "automation"
+  ],
+  "author": {
+    "name": "mukul975",
+    "email": "mukuljangra5@gmail.com",
+    "url": "https://github.com/mukul975"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mukul975/mcp-mysql-server/issues"
+  },
+  "homepage": "https://github.com/mukul975/mcp-mysql-server#readme",
+  "engines": {
+    "python": ">=3.8"
+  },
+  "directories": {
+    "doc": "./docs"
+  },
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/mukul975"
+  }
+}

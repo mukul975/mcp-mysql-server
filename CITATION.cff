@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "MCP MySQL Server"
+message: "If you use this software, please cite it using these metadata."
+type: software
+authors:
+  - given-names: "mukul975"
+    family-names: ""
+    orcid: "https://orcid.org/0009-0003-4474-946X"
+repository-code: "https://github.com/mukul975/mcp-mysql-server"
+url: "https://github.com/mukul975/mcp-mysql-server"
+abstract: >-
+  A comprehensive Model Context Protocol (MCP) server for MySQL databases 
+  with 200+ tools for advanced database management, diagnostics, performance 
+  analysis, security auditing, and AI-powered database interactions. Designed 
+  to empower AI assistants and LLMs with sophisticated database access capabilities.
+keywords:
+  - mysql
+  - database
+  - model-context-protocol
+  - mcp
+  - ai-tools
+  - database-management
+  - sql
+  - python
+  - diagnostics
+  - performance-analysis
+  - security-auditing
+license: MIT
+version: "1.0.0"
+date-released: "2025-07-22"
+preferred-citation:
+  type: software
+  title: "MCP MySQL Server: A Comprehensive Database Management Tool for AI Systems"
+  authors:
+    - given-names: "mukul975"
+      family-names: ""
+  year: 2025
+  url: "https://github.com/mukul975/mcp-mysql-server"
