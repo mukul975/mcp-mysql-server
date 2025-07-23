@@ -1,0 +1,36 @@
+extends: default
+
+rules:
+  line-length:
+    max: 120
+    level: warning
+  
+  comments:
+    min-spaces-from-content: 1
+  
+  comments-indentation: disable
+  
+  document-start: disable
+  
+  truthy:
+    allowed-values: ['true', 'false', 'yes', 'no']
+    check-keys: false
+  
+  brackets:
+    max-spaces-inside: 1
+    max-spaces-inside-empty: 0
+  
+  braces:
+    max-spaces-inside: 1
+    max-spaces-inside-empty: 0
+  
+  indentation:
+    spaces: 2
+    indent-sequences: true
+    check-multi-line-strings: false
+
+ignore: |
+  *.github/workflows/*
+  **/node_modules/
+  **/.venv/
+  **/venv/
