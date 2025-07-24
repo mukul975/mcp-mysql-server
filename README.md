@@ -180,12 +180,6 @@ MIT License — Open source and free to use.
 
 ## 🔎 GitHub SEO Tips (apply on GitHub)
 
-1. **Repo Settings**:
-
-   * **Description**: `AI-powered MySQL server for LLMs, diagnostics, and automation`
-   * **Tags**: `mysql`, `ai`, `mcp`, `automation`, `llm`, `chatgpt`, `database`, `sql`, `devops`
-
-2. **Topics**: Add GitHub topics like `mysql`, `llm`, `mcp`, `chatgpt-plugin`, `openai`, `ai-tools`
 
 ---
 
